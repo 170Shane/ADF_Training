@@ -1,0 +1,9 @@
+{
+	"name": "Shane-Clark-df",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "975e2775-d7ae-49eb-87dc-049d9926bfcb",
+		"tenantId": "18ed93f5-e470-4996-b0ef-9554af985d50"
+	}
+}
