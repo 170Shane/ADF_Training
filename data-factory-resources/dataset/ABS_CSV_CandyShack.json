@@ -13,8 +13,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "Sales.csv",
-				"folderPath": "SweetTreats/Apr-20",
+				"fileName": "2020-04.csv",
+				"folderPath": "CandyShack",
 				"container": "sampledata"
 			},
 			"columnDelimiter": ",",
