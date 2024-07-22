@@ -21,7 +21,7 @@
 						"storeSettings": {
 							"type": "AzureBlobStorageReadSettings",
 							"recursive": true,
-							"wildcardFolderPath": "adftrainingsc/SampleData/SweetTreats",
+							"wildcardFolderPath": "SweetTreats",
 							"wildcardFileName": "*",
 							"enablePartitionDiscovery": false
 						},
